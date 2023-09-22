@@ -17,8 +17,12 @@ Fair, I need a meme API real quick to smash it into my bot's code (akaneko has i
 The code is just so short and easy to make, so I made it beautiful and easy to read. Else if I wanted to make this hard to read I'd just use an obfuscator.
 
 ---
-## Instructions on hosting
+###### 🕒 9/22/2023 
+### 📢 Prehosted!
+If you feel unbothered and you just want something that works, https://meme.iyowa.stabbed.me, I'm hosting that. Use it if you wish, else continue.
 
+---
+## Instructions on hosting
 I was thinking of using some sort of Reddit API and something something but the idea was silly. No keys is required, however you'll need:
 - A hosting place. It's easy to find a free one, this project is small enough.
 - `Node.js` and `npm` or `yarn` on that hosting place. It's either already in there or you'll have to set it up.
